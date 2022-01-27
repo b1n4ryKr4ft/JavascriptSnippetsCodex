@@ -26,5 +26,5 @@ function myWordIsMyBond(sentence) {
     return `Longest word is ${longestWord}: [${longestWordLength} characters] and shortest word is ${shortestWord}: [${shortestWordLength} characters]`;
   }
   
-  console.log(myWordIsMyBond("We drink your milkshare"));
+  console.log(myWordIsMyBond("We drink your milkshake"));
   
